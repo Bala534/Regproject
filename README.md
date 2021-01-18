@@ -2,6 +2,7 @@
 
 ## Steps used in the project are:
 
+```diff
 <ul>
   <li>Conduct Pearson’s regression to determine the agreement between all parameters with the outputs (Cu and Cc) and present basic linear fittings.</li>
   <li>Present frequency histograms of the variables.</li>
@@ -10,3 +11,4 @@
   <li>Present the parametric study graph.</li>
   <li>Conduct sensitivity analysis to determine the influence of each parameter on the predicted parameters.</li> 
 </ul>
+```
