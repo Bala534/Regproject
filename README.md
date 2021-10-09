@@ -11,6 +11,6 @@
   <li>Conduct sensitivity analysis to determine the influence of each parameter on the predicted parameters.</li> 
 </ul>
 
-## Publication link in science direct
+## Publication in Science Direct:
 
 https://www.sciencedirect.com/science/article/pii/S2666790821002500
